@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Junior+Developer+💻;Creative+Coder+✨;Tech+Enthusiast+🚀)](https://git.io/typing-svg)
-## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>
-<div align="center" style="background-color:#000000; color:#ffffff; padding:40px; border-radius:15px;">
-
 # 👋 Hi, I'm <span style="color:#00ffff;">Katlego Queeneth Matlhoko</span>  
 ## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>  
 
