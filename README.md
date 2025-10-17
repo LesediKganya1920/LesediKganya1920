@@ -91,14 +91,3 @@ Designed a business website for an event company, showcasing services and contac
 ⭐️ <b><span style="color:#ffccff;">“Code with purpose, design with passion, and learn without limits.”</span></b> ⭐️  
 </div>
 
----
-
-<!-- Animated "Junior Developer" text -->
-<script>
-  const words = ["Junior Developer 👩🏽‍💻", "Creative Coder ✨", "Tech Enthusiast 🚀"];
-  let i = 0;
-  setInterval(() => {
-    document.getElementById("typing").innerText = words[i];
-    i = (i + 1) % words.length;
-  }, 2000);
-</script>
