@@ -23,6 +23,3 @@ I’m a motivated Information Technology student specializing in Business System
 
 <a href="https://github.com/https://github.com/LesediKganya1920" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/LesediKganya1920&langs_count=10&title_color=facc15&text_color=facc15&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
