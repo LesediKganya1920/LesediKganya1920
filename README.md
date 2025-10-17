@@ -1,70 +1,63 @@
-# Hi 👋, I'm Katlego Queeneth Matlhoko  
-### 💻 Junior Developer | Business Systems Student | Problem Solver  
+<div align="center" style="background-color:#000000; color:#ffffff; padding:40px; border-radius:15px;">
 
-I'm a motivated Information Technology student specializing in **Business Systems**.  
-I have hands-on experience in **Java**, **web design**, and **software testing**, with a strong interest in **data visualization**, **business innovation**, and **technology-driven solutions**.  
+# 👋 Hi, I'm <span style="color:#00ffff;">Katlego Queeneth Matlhoko</span>  
+## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>  
 
-Currently, I’m developing a **chatbot in Java (NetBeans)** and building projects that combine my creativity and technical skills.  
-I’m open to **internships, collaborations, and entry-level roles** in software development, data analysis, or IT systems analysis.
+</div>
+
+<p align="center">
+🌍 <b>Bloemfontein, South Africa</b> • ✉️ <a href="mailto:lesedikganya1920@gmail.com" style="color:#00ffff;">lesedikganya1920@gmail.com</a>
+</p>
 
 ---
 
-### 🌍 Location  
-📍 Bloemfontein, South Africa  
-
-### ✉️ Contact  
-📧 [lesedikganya1920@gmail.com](mailto:lesedikganya1920@gmail.com)
-
 ### 🧠 Currently Learning  
-- Java (building a chatbot project)  
-- React.js for front-end development  
-- SQL & Power BI for data analysis  
+- <span style="color:#00ff99;">Java (Chatbot Project in NetBeans)</span>  
+- <span style="color:#ffcc00;">React.js for Front-End Development</span>  
+- <span style="color:#66ccff;">SQL & Power BI for Data Analysis</span>  
 
 ### 👥 Collaboration Interests  
 - Data Visualization  
 - Web Design Projects  
 - Data Analysis Dashboards  
 
-### 💬 Fun Fact  
-I love coding so much that sometimes I wake up in the middle of the night thinking about new project ideas! 😄  
-
 ---
 
 ## 🛠️ Skills & Tools  
 
 **Languages & Frameworks:**  
-Java · Python · JavaScript · HTML5 · CSS3 · React (learning) · Flask  
+🟡 Java · 🐍 Python · 🟣 JavaScript · 🟠 HTML5 · 🔵 CSS3 · ⚛️ React (learning) · 🧩 Flask  
 
 **Data & Databases:**  
-MySQL · SQL Server · Power BI · Excel (Pivot Tables, Solver, Goal Seek)  
+📊 MySQL · SQL Server · Power BI · Excel (Pivot Tables, Solver, Goal Seek)  
 
 **Design & Development Tools:**  
-VS Code · NetBeans · Figma · Canva  
+🧠 VS Code · 🖥️ NetBeans · 🎨 Figma · 🪄 Canva  
 
 **Version Control & Cloud:**  
-Git · GitHub · Microsoft Azure  
+🔗 Git · 🌐 GitHub · ☁️ Microsoft Azure  
 
 **Soft Skills:**  
-Problem-Solving · Teamwork · Creativity · Communication · Time Management  
+💡 Problem-Solving · 🤝 Teamwork · 🎯 Creativity · 💬 Communication · ⏰ Time Management  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🗨️ Java Chatbot (NetBeans)  
+### 🗨️ Java Chatbot (NetBeans)
 A chatbot built in Java using **JUnit** for testing and **Swing GUI** for interaction.  
 **Tech Stack:** Java, JUnit, NetBeans  
 🔗 *Coming soon to GitHub*  
 
-### 🌐 Modern Website Designs  
+### 🌐 Modern Website Designs
 Developed responsive and interactive websites using **HTML, CSS, and JavaScript**, focusing on accessibility and user experience.  
 **Tech Stack:** HTML, CSS, JavaScript, Figma  
 
-### 📊 Power BI Sales Dashboard  
+### 📊 Power BI Sales Dashboard
 Created a dynamic sales analysis dashboard to visualize performance and insights.  
 **Tech Stack:** Power BI, Excel, DAX  
 
-### 💡 Lesedi Amantle Events Website  
+### 💡 Lesedi Amantle Events Website
 Designed a business website for an event company, showcasing services and contact details.  
 **Tech Stack:** HTML, CSS, JavaScript, Canva  
 
@@ -72,20 +65,20 @@ Designed a business website for an event company, showcasing services and contac
 
 ## 🏆 Achievements & Certifications  
 
-- 🎓 Higher Certificate in Business Management – IIE Rosebank College  
-- 💻 Diploma in Social Media Management – Alison  
-- 📊 Business Analytics with Excel – Simplilearn  
-- 📈 Power BI Beginner & Data Modeling – Alison  
-- 🐍 Python Programming for Beginners – Udemy  
-- 🗃️ Introduction to SQL – Alison  
+🎓 Higher Certificate in Business Management – IIE Rosebank College  
+💻 Diploma in Social Media Management – Alison  
+📊 Business Analytics with Excel – Simplilearn  
+📈 Power BI Beginner & Data Modeling – Alison  
+🐍 Python Programming for Beginners – Udemy  
+🗃️ Introduction to SQL – Alison  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- [GitHub Profile](https://github.com/LesediKganya1920)  
-- [LinkedIn Profile](https://www.linkedin.com/in/katlego-matlhoko)  
-- [Email Me](mailto:lesedikganya1920@gmail.com)
+- 🌟 [GitHub Profile](https://github.com/LesediKganya1920)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/katlego-matlhoko)  
+- 📧 [Email Me](mailto:lesedikganya1920@gmail.com)
 
 ---
 
@@ -96,4 +89,18 @@ Designed a business website for an event company, showcasing services and contac
 
 ---
 
-⭐️ **“Code with purpose, design with passion, and learn without limits.”**
+<div align="center">
+⭐️ <b><span style="color:#ffccff;">“Code with purpose, design with passion, and learn without limits.”</span></b> ⭐️  
+</div>
+
+---
+
+<!-- Animated "Junior Developer" text -->
+<script>
+  const words = ["Junior Developer 👩🏽‍💻", "Creative Coder ✨", "Tech Enthusiast 🚀"];
+  let i = 0;
+  setInterval(() => {
+    document.getElementById("typing").innerText = words[i];
+    i = (i + 1) % words.length;
+  }, 2000);
+</script>
