@@ -87,7 +87,10 @@ Designed a business website for an event company, showcasing services and contac
 ![Katlego's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesediKganya1920&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LesediKganya1920&layout=compact&theme=radical)
 
----
+-## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Junior+Developer+💻;Creative+Coder+✨;Tech+Enthusiast+🚀)](https://git.io/typing-svg)
+
+--
 
 <div align="center">
 ⭐️ <b><span style="color:#ffccff;">“Code with purpose, design with passion, and learn without limits.”</span></b> ⭐️  
