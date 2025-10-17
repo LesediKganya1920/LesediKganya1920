@@ -1,31 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Junior+Developer+💻;Creative+Coder+✨;Tech+Enthusiast+🚀)](https://git.io/typing-svg)
+## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>
 <div align="center" style="background-color:#000000; color:#ffffff; padding:40px; border-radius:15px;">
 
 # 👋 Hi, I'm <span style="color:#00ffff;">Katlego Queeneth Matlhoko</span>  
 ## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>  
--## <span style="font-size:26px; color:#ff66ff;">💻 <span id="typing"></span></span>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Junior+Developer+💻;Creative+Coder+✨;Tech+Enthusiast+🚀)](https://git.io/typing-svg)
 
---
-
-<div align="center">
-⭐️ <b><span style="color:#ffccff;">“Code with purpose, design with passion, and learn without limits.”</span></b> ⭐️  
-</div>
-
----
-
-<!-- Animated "Junior Developer" text -->
-<script>
-  const words = ["Junior Developer 👩🏽‍💻", "Creative Coder ✨", "Tech Enthusiast 🚀"];
-  let i = 0;
-  setInterval(() => {
-    document.getElementById("typing").innerText = words[i];
-    i = (i + 1) % words.length;
-  }, 2000);
-</script>
 </div>
 
 <p align="center">
-🌍 <b>Bloemfontein, South Africa</b> • ✉️ <a href="mailto:lesedikganya1920@gmail.com or 067 968 9273" style="color:#00ffff;">lesedikganya1920@gmail.com</a>
+🌍 <b>Bloemfontein, South Africa</b> • ✉️ <a href="mailto:lesedikganya1920@gmail.com" style="color:#00ffff;">lesedikganya1920@gmail.com</a>
 </p>
 
 ---
@@ -106,4 +89,20 @@ Designed a business website for an event company, showcasing services and contac
 ![Katlego's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesediKganya1920&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LesediKganya1920&layout=compact&theme=radical)
 
+---
 
+<div align="center">
+⭐️ <b><span style="color:#ffccff;">“Code with purpose, design with passion, and learn without limits.”</span></b> ⭐️  
+</div>
+
+---
+
+<!-- Animated "Junior Developer" text -->
+<script>
+  const words = ["Junior Developer 👩🏽‍💻", "Creative Coder ✨", "Tech Enthusiast 🚀"];
+  let i = 0;
+  setInterval(() => {
+    document.getElementById("typing").innerText = words[i];
+    i = (i + 1) % words.length;
+  }, 2000);
+</script>
