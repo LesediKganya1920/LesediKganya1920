@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-🌍 <b>Bloemfontein, South Africa</b> • ✉️ <a href="mailto:lesedikganya1920@gmail.com" style="color:#00ffff;">lesedikganya1920@gmail.com</a>
+🌍 <b>Bloemfontein, South Africa</b> • ✉️ <a href="mailto:lesedikganya1920@gmail.com or 067 968 9273" style="color:#00ffff;">lesedikganya1920@gmail.com</a>
 </p>
 
 ---
