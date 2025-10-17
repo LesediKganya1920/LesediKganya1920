@@ -1,25 +1,99 @@
-Hi 👋 My name is Katlego Queeneth Matlhoko
-==========================================
+# Hi 👋, I'm Katlego Queeneth Matlhoko  
+### 💻 Junior Developer | Business Systems Student | Problem Solver  
 
-Junior Developer
-----------------
+I'm a motivated Information Technology student specializing in **Business Systems**.  
+I have hands-on experience in **Java**, **web design**, and **software testing**, with a strong interest in **data visualization**, **business innovation**, and **technology-driven solutions**.  
 
-I’m a motivated Information Technology student specializing in Business Systems. I have hands-on experience with Java, web design, and software testing. My projects include developing a chat application using JUnit and modern website designs. I’m passionate about problem-solving, business innovation, and technology-driven solutions. Open to internships, collaborations, and entry-level opportunities in software development or IT systems analysis.
+Currently, I’m developing a **chatbot in Java (NetBeans)** and building projects that combine my creativity and technical skills.  
+I’m open to **internships, collaborations, and entry-level roles** in software development, data analysis, or IT systems analysis.
 
-* 🌍  I'm based in Bloemfontein
-* ✉️  You can contact me at [lesedikganya1920@gmail.com](mailto:lesedikganya1920@gmail.com)
-* 🧠  I'm currently learning Java through netbeans, by creating a chatbot.
-* 👥  I'm looking to collaborate on Data Visualizations, Web design, and Data Analysis
-* 💬  Ask me about I love coding so much that sometimes, I wake up in the middle of the night thinking about different ideas I would use for my Projects.
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
-</p>
+### 🌍 Location  
+📍 Bloemfontein, South Africa  
 
-### Socials
+### ✉️ Contact  
+📧 [lesedikganya1920@gmail.com](mailto:lesedikganya1920@gmail.com)
 
-<p align="left"> <a href="https://www.github.com/https://github.com/LesediKganya1920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
+### 🧠 Currently Learning  
+- Java (building a chatbot project)  
+- React.js for front-end development  
+- SQL & Power BI for data analysis  
 
-<a href="https://github.com/https://github.com/LesediKganya1920" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/LesediKganya1920&langs_count=10&title_color=facc15&text_color=facc15&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 👥 Collaboration Interests  
+- Data Visualization  
+- Web Design Projects  
+- Data Analysis Dashboards  
 
+### 💬 Fun Fact  
+I love coding so much that sometimes I wake up in the middle of the night thinking about new project ideas! 😄  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Languages & Frameworks:**  
+Java · Python · JavaScript · HTML5 · CSS3 · React (learning) · Flask  
+
+**Data & Databases:**  
+MySQL · SQL Server · Power BI · Excel (Pivot Tables, Solver, Goal Seek)  
+
+**Design & Development Tools:**  
+VS Code · NetBeans · Figma · Canva  
+
+**Version Control & Cloud:**  
+Git · GitHub · Microsoft Azure  
+
+**Soft Skills:**  
+Problem-Solving · Teamwork · Creativity · Communication · Time Management  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🗨️ Java Chatbot (NetBeans)  
+A chatbot built in Java using **JUnit** for testing and **Swing GUI** for interaction.  
+**Tech Stack:** Java, JUnit, NetBeans  
+🔗 *Coming soon to GitHub*  
+
+### 🌐 Modern Website Designs  
+Developed responsive and interactive websites using **HTML, CSS, and JavaScript**, focusing on accessibility and user experience.  
+**Tech Stack:** HTML, CSS, JavaScript, Figma  
+
+### 📊 Power BI Sales Dashboard  
+Created a dynamic sales analysis dashboard to visualize performance and insights.  
+**Tech Stack:** Power BI, Excel, DAX  
+
+### 💡 Lesedi Amantle Events Website  
+Designed a business website for an event company, showcasing services and contact details.  
+**Tech Stack:** HTML, CSS, JavaScript, Canva  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 🎓 Higher Certificate in Business Management – IIE Rosebank College  
+- 💻 Diploma in Social Media Management – Alison  
+- 📊 Business Analytics with Excel – Simplilearn  
+- 📈 Power BI Beginner & Data Modeling – Alison  
+- 🐍 Python Programming for Beginners – Udemy  
+- 🗃️ Introduction to SQL – Alison  
+
+---
+
+## 🌐 Connect with Me  
+
+- [GitHub Profile](https://github.com/LesediKganya1920)  
+- [LinkedIn Profile](https://www.linkedin.com/in/katlego-matlhoko)  
+- [Email Me](mailto:lesedikganya1920@gmail.com)
+
+---
+
+## 📊 GitHub Stats  
+
+![Katlego's GitHub stats](https://github-readme-stats.vercel.app/api?username=LesediKganya1920&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LesediKganya1920&layout=compact&theme=radical)
+
+---
+
+⭐️ **“Code with purpose, design with passion, and learn without limits.”**
