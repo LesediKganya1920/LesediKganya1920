@@ -72,6 +72,7 @@ I'm a passionate **Junior Developer** and **Business Systems Student** at IIE Ro
 ## 🏆 Certifications & Education
 
 🎓 **Higher Certificate in Business Management** - IIE Rosebank College  
+🎓 **Bachelor of Information Technology in Business Systems** - IIE Rosebank College 
 📜 **Python Programming for Beginners** - Udemy  
 📜 **Business Analytics with Excel** - Simplilearn  
 📜 **Power BI Beginner & Data Modeling** - Alison  
