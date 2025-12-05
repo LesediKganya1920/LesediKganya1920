@@ -1,178 +1,196 @@
-# Hi there! 👋 I'm Katlego Queeneth Matlhoko
+# 👋 Hello, I'm Katlego Queeneth Matlhoko
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Junior+Developer+%F0%9F%92%BB;Business+Systems+Student+%F0%9F%93%8A;Problem+Solver+%F0%9F%92%A1;Continuous+Learner+%F0%9F%9A%80)
+## 📊 Data Analyst | Transforming Data into Strategic Business Insights
 
-</div>
-
-<p align="center">
-  <em>"Code with purpose, design with passion, and learn without limits."</em>
-</p>
+I'm a passionate data analyst with a strong foundation in business systems and data analytics. Currently pursuing my Bachelor of Information Technology in Business Systems, I specialize in translating complex datasets into actionable insights that drive business decisions. My analytical approach combines technical proficiency with business acumen to deliver meaningful results.
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I'm a passionate **Junior Developer** and **Business Systems Student** at IIE Rosebank College, based in Bloemfontein, South Africa. I love transforming complex problems into elegant, user-friendly solutions through code and creativity.
+I help organizations unlock the value of their data through comprehensive analysis, visualization, and reporting. My work focuses on identifying trends, solving business problems, and presenting insights in ways that non-technical stakeholders can understand and act upon.
 
-- 🔭 Currently working on building **full-stack web applications** and **data analytics dashboards**
-- 🌱 Learning **React.js** and advanced **database optimization**
-- 👯 Looking to collaborate on **open-source projects** and **innovative web solutions**
-- 💬 Ask me about **web development, Python, data visualization, or UI/UX design**
-- 📫 Reach me at: **lesedikganya1920@gmail.com**
-- ⚡ Fun fact: I combine business acumen with technical expertise to create impactful solutions
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Data & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Key Areas of Expertise:**
+- Data Analysis & Business Intelligence
+- Statistical Analysis & Data Visualization
+- SQL Database Querying & Management
+- Power BI Dashboard Development
+- Excel Advanced Analytics (VBA & Macros)
+- Business Process Analysis & Documentation
+- Project Management with Data Analytics
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LesediKganya1920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LesediKganya1920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LesediKganya1920&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=764BA2&currStreakLabel=667EEA)
+**Programming & Analysis:**
+- **SQL**: SQL Server, complex queries, data extraction & manipulation
+- **Python**: pandas, NumPy, data cleaning and analysis
+- **Excel (Advanced)**: VBA, Macros, Power Query, Pivot Tables, Advanced Formulas
+- **R**: Basic statistical analysis
 
-</div>
+**Visualization & BI Tools:**
+- Power BI (Data Modeling, DAX, Interactive Dashboards)
+- Excel Dashboards & Charts
+- Data Storytelling & Presentation
 
----
+**Business Analysis:**
+- Requirements gathering & functional specifications
+- Process mapping & workflow documentation
+- Business intelligence reporting
+- Project management methodologies
 
-## 🏆 Certifications & Education
-
-🎓 **Higher Certificate in Business Management** - IIE Rosebank College  
-🎓 **Bachelor of Information Technology in Business Systems** - IIE Rosebank College
-📜 **Python Programming for Beginners** - Udemy  
-📜 **Business Analytics with Excel** - Simplilearn  
-📜 **Power BI Beginner & Data Modeling** - Alison  
-📜 **Introduction to SQL** - Alison  
-📜 **Diploma in Social Media Management** - Alison  
+**Other Tools:**
+- Git & GitHub for version control
+- Microsoft Office Suite (Advanced)
+- Data cleaning & transformation
+- Report automation
 
 ---
 
 ## 💼 Featured Projects
 
-### 🌐 [Portfolio Website](https://github.com/LesediKganya1920/portfolio)
-A fully responsive personal portfolio showcasing my skills, projects, and professional journey.
-- **Tech:** HTML5, CSS3, JavaScript
-- **Features:** Dynamic animations, smooth scrolling, mobile-first design
+### 🚗 [Toyota Used Cars Market Analysis](link-to-kaggle)
+Conducted comprehensive analysis of the used car market to identify pricing trends, depreciation patterns, and factors influencing vehicle values. Developed insights to guide purchasing decisions and market positioning strategies.
 
-### 📊 Business Analytics Dashboard
-Interactive data visualization dashboard built with Power BI for business metrics analysis.
-- **Tech:** Power BI, Excel, SQL
-- **Features:** KPI tracking, trend analysis, drill-down capabilities
-
-### 🐍 Python Automation Tools
-Collection of automation scripts designed to streamline workflows.
-- **Tech:** Python
-- **Features:** Data processing, file management, error handling
-
-### 💾 Database Management System
-Robust database solution for efficient data storage and retrieval.
-- **Tech:** MySQL, SQL Server
-- **Features:** Normalized schema, stored procedures, query optimization
+**Tech Stack:** Python, pandas, matplotlib, seaborn | **Key Findings:** Identified optimal pricing strategies based on mileage, year, and model trends
 
 ---
 
-## 📈 Current Focus
+### 💼 [Job Market Analysis](link-to-kaggle)
+Analyzed job market trends across industries to identify in-demand skills, salary benchmarks, and employment patterns. Provided data-driven recommendations for career development and workforce planning.
 
-```javascript
-const katlego = {
-    currentlyLearning: ["React.js", "Advanced SQL", "Data Structures"],
-    workingOn: ["Personal Portfolio", "Web Applications", "Data Analytics"],
-    goals2025: [
-        "Contribute to open-source projects",
-        "Build 10+ full-stack applications",
-        "Master React and Node.js",
-        "Land my first developer role"
-    ],
-    hobbies: ["Coding", "Problem Solving", "UI/UX Design", "Learning New Tech"]
-};
-```
+**Tech Stack:** SQL, Power BI, Excel | **Impact:** Revealed top 10 most sought-after skills and salary growth trends
 
 ---
 
-## 🤝 Let's Connect!
+### 🎓 [College Exam Results Analysis](link-to-kaggle)
+Performed statistical analysis on student exam performance data to identify patterns in achievement, subject difficulty, and performance drivers. Created visualizations to support academic planning decisions.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/katlego-matlhoko">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lesedikganya1920@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/LesediKganya1920">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+**Tech Stack:** Excel, Power BI, SQL | **Outcome:** Identified key factors correlating with student success
 
 ---
 
-## 💭 Quote of the Day
+### 📚 [Academic Stress Factors Amongst Students](link-to-kaggle)
+Investigated stress factors affecting student wellbeing and academic performance through survey data analysis. Developed recommendations for support programs based on statistical findings.
 
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
-
-</div>
+**Tech Stack:** Python, Excel, Power BI | **Insights:** Quantified stress levels and identified primary contributing factors
 
 ---
 
-## 📊 Activity Graph
+### 💻 [LinkedIn Tech Jobs Analysis](link-to-kaggle)
+Analyzed LinkedIn job postings to uncover trends in the technology sector, including role requirements, skill demands, and compensation patterns across different experience levels.
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LesediKganya1920&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF)
-
-</div>
+**Tech Stack:** Python, SQL, Power BI | **Results:** Mapped career progression paths and skill requirements for tech roles
 
 ---
 
-<div align="center">
-  
-  ### 🎯 Profile Views
-  ![Profile Views](https://komarev.com/ghpvc/?username=LesediKganya1920&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  ### ⭐ Show some love!
-  If you like my projects, consider giving them a ⭐️
-  
-  **Happy Coding! 🚀**
+## 📚 Academic & Project Work
 
-</div>
+As part of my Bachelor of Information Technology in Business Systems, I have undertaken comprehensive project work involving:
+
+- Translating business requirements into functional specifications for information systems
+- Analyzing datasets to identify trends and propose operational efficiency improvements
+- Creating detailed process maps and documentation to model business workflows
+- Developing professional reports and visualizations to communicate analytical findings to stakeholders
+- Collaborating on team projects that integrate data analysis with business strategy
+
+These academic projects have strengthened my ability to bridge the gap between technical analysis and business objectives, ensuring that data insights drive practical outcomes.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-</div>
+## 🎓 Education
+
+**Bachelor of Information Technology in Business Systems (NQF 7)**  
+*IIE Rosebank College, Bloemfontein* | 2025 (In Progress)
+
+**Higher Certificate in Business Management (NQF 5)**  
+*IIE Rosebank College, Bloemfontein* | 2023
+
+**National Senior Certificate (Matric)**  
+*Boshof Combined School* | 2014
+
+---
+
+## 📜 Certifications
+
+**2025:**
+- Introduction to Data Analysis – Alison | Issued Nov 2025
+- Business Analyst: Excel Macro and VBA for Beginners – Simplilearn | Issued Jan 2025
+- Power BI Data Modeling Basic Tutorial Course – Simplilearn | Issued Jan 2025
+
+**2024:**
+- Fundamental Data Analysis using Power BI – Alison | Issued Dec 2024
+- SQL Server Essentials, from scratch – Udemy | Issued Dec 2024
+- Project Management with Data Analytics – Udemy | Issued Dec 2024
+- Excel for Beginners – Udemy | Issued Dec 2024
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 💡 What Sets Me Apart
+
+**Business-Focused Mindset**: With my background in business management and information technology, I don't just analyze data—I understand the business context and deliver insights that align with organizational goals and drive strategic decisions.
+
+**Strong Communication Skills**: I excel at translating complex technical findings into clear, compelling narratives that resonate with business stakeholders through effective visualizations and storytelling.
+
+**Continuous Growth**: I am committed to staying current with industry trends and expanding my technical skills through ongoing certifications and hands-on projects. My proactive approach to learning ensures I bring fresh perspectives to every analysis.
+
+**Detail-Oriented & Analytical**: My academic training in business systems has equipped me with a methodical approach to problem-solving, ensuring accuracy and thoroughness in every project I undertake.
+
+---
+
+## 🤝 Let's Connect
+
+I'm eager to connect with data professionals, potential collaborators, and organizations seeking a dedicated data analyst. Whether you're interested in discussing projects, exploring opportunities, or sharing insights about the analytics field, I'd love to hear from you!
+
+- 📧 Email: lesedikganya1920@gmail.com
+- 📱 Phone: 067 968 9273
+- 💼 LinkedIn: [Katlego Queeneth Matlhoko](your-linkedin-url)
+- 📊 Kaggle: [Your Kaggle Profile](link)
+- 🌐 Portfolio: [yourportfolio.com](link)
+
+---
+
+## 📄 Resume
+
+📥 [Download my resume](link-to-resume.pdf)
+
+---
+
+## 🎯 Open to Opportunities
+
+I'm actively seeking opportunities in data analytics where I can apply my analytical skills, business acumen, and technical expertise to contribute to organizational success. I'm particularly interested in roles that involve:
+
+- Business intelligence and data visualization
+- Data-driven decision making and strategic analysis
+- SQL database management and reporting
+- Cross-functional collaboration with business teams
+- Building dashboards and analytical solutions using Power BI
+
+**Location:** Bloemfontein, South Africa | Open to remote opportunities  
+**Availability:** Immediate for part-time or project-based work | Full-time from 2026
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python for data science
+- Machine learning fundamentals
+- Advanced DAX in Power BI
+- Cloud-based analytics (Azure, AWS)
+
+---
+
+⭐️ *If you find my work valuable, feel free to star my repositories and follow for updates on my data analytics journey!*
+
+---
+
+*Last Updated: December 2025*
