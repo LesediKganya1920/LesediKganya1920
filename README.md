@@ -1,196 +1,113 @@
-# 👋 Hello, I'm Katlego Queeneth Matlhoko
+# Hi, I'm Katlego Matlhoko 👋🏽
 
-## 📊 Data Analyst | Transforming Data into Strategic Business Insights
+### 💻 Junior Software Developer | Web Developer | Business & Data Enthusiast
 
-I'm a passionate data analyst with a strong foundation in business systems and data analytics. Currently pursuing my Bachelor of Information Technology in Business Systems, I specialize in translating complex datasets into actionable insights that drive business decisions. My analytical approach combines technical proficiency with business acumen to deliver meaningful results.
+I'm a South African aspiring Software Developer passionate about using technology to solve real-world problems.
 
----
+I started my web development journey with **HTML, CSS and JavaScript** and have continued expanding my skills into **React, Java, Python and Git/GitHub**.
 
-## 🎯 What I Do
-
-I help organizations unlock the value of their data through comprehensive analysis, visualization, and reporting. My work focuses on identifying trends, solving business problems, and presenting insights in ways that non-technical stakeholders can understand and act upon.
-
-**Key Areas of Expertise:**
-- Data Analysis & Business Intelligence
-- Statistical Analysis & Data Visualization
-- SQL Database Querying & Management
-- Power BI Dashboard Development
-- Excel Advanced Analytics (VBA & Macros)
-- Business Process Analysis & Documentation
-- Project Management with Data Analytics
+What interests me most about software development is not just building websites — it's understanding a problem and creating a practical solution through technology.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 What I Do
 
-**Programming & Analysis:**
-- **SQL**: SQL Server, complex queries, data extraction & manipulation
-- **Python**: pandas, NumPy, data cleaning and analysis
-- **Excel (Advanced)**: VBA, Macros, Power Query, Pivot Tables, Advanced Formulas
-- **R**: Basic statistical analysis
-
-**Visualization & BI Tools:**
-- Power BI (Data Modeling, DAX, Interactive Dashboards)
-- Excel Dashboards & Charts
-- Data Storytelling & Presentation
-
-**Business Analysis:**
-- Requirements gathering & functional specifications
-- Process mapping & workflow documentation
-- Business intelligence reporting
-- Project management methodologies
-
-**Other Tools:**
-- Git & GitHub for version control
-- Microsoft Office Suite (Advanced)
-- Data cleaning & transformation
-- Report automation
+* 🌐 Build responsive websites and web applications
+* 💡 Turn real-world problems into digital solutions
+* 🧩 Work with frontend technologies
+* 📊 Explore Data Analysis and Business Analysis
+* 🔄 Continuously learn and improve my development skills
+* 🤖 Use AI as a development assistant while keeping the human problem-solving and ideas at the centre
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Technologies & Skills
 
-### 🚗 [Toyota Used Cars Market Analysis](link-to-kaggle)
-Conducted comprehensive analysis of the used car market to identify pricing trends, depreciation patterns, and factors influencing vehicle values. Developed insights to guide purchasing decisions and market positioning strategies.
+### Frontend
 
-**Tech Stack:** Python, pandas, matplotlib, seaborn | **Key Findings:** Identified optimal pricing strategies based on mileage, year, and model trends
+HTML • CSS • JavaScript • React
 
----
+### Programming
 
-### 💼 [Job Market Analysis](link-to-kaggle)
-Analyzed job market trends across industries to identify in-demand skills, salary benchmarks, and employment patterns. Provided data-driven recommendations for career development and workforce planning.
+Java • Python • JavaScript
 
-**Tech Stack:** SQL, Power BI, Excel | **Impact:** Revealed top 10 most sought-after skills and salary growth trends
+### Tools
 
----
+Git • GitHub • VS Code • Node.js
 
-### 🎓 [College Exam Results Analysis](link-to-kaggle)
-Performed statistical analysis on student exam performance data to identify patterns in achievement, subject difficulty, and performance drivers. Created visualizations to support academic planning decisions.
+### Business & Data
 
-**Tech Stack:** Excel, Power BI, SQL | **Outcome:** Identified key factors correlating with student success
+Business Analysis • Data Analysis • Excel • SQL • Problem Solving
 
 ---
 
-### 📚 [Academic Stress Factors Amongst Students](link-to-kaggle)
-Investigated stress factors affecting student wellbeing and academic performance through survey data analysis. Developed recommendations for support programs based on statistical findings.
+## 🌟 Featured Projects
 
-**Tech Stack:** Python, Excel, Power BI | **Insights:** Quantified stress levels and identified primary contributing factors
+### 🏫 Kindergarten Management Website
 
----
+**Problem:** Parents were relying on paper-based applications and had limited access to the kindergarten registration process.
 
-### 💻 [LinkedIn Tech Jobs Analysis](link-to-kaggle)
-Analyzed LinkedIn job postings to uncover trends in the technology sector, including role requirements, skill demands, and compensation patterns across different experience levels.
-
-**Tech Stack:** Python, SQL, Power BI | **Results:** Mapped career progression paths and skill requirements for tech roles
+**Solution:** Built a website that allows parents to access information, apply online and book a space remotely.
 
 ---
 
-## 📚 Academic & Project Work
+### 👩🏽‍💼 Sales Agent Training Platform
 
-As part of my Bachelor of Information Technology in Business Systems, I have undertaken comprehensive project work involving:
+**Problem:** Sales agents needed a structured way to access training, understand available positions and demonstrate their knowledge.
 
-- Translating business requirements into functional specifications for information systems
-- Analyzing datasets to identify trends and propose operational efficiency improvements
-- Creating detailed process maps and documentation to model business workflows
-- Developing professional reports and visualizations to communicate analytical findings to stakeholders
-- Collaborating on team projects that integrate data analysis with business strategy
-
-These academic projects have strengthened my ability to bridge the gap between technical analysis and business objectives, ensuring that data insights drive practical outcomes.
+**Solution:** Developed a training platform containing position information, commission details, quizzes and certification.
 
 ---
 
-## 🎓 Education
+### 📝 Trauma Support Website
 
-**Bachelor of Information Technology in Business Systems (NQF 7)**  
-*IIE Rosebank College, Bloemfontein* | 2025 (In Progress)
+**Problem:** People looking for information about trauma and coping mechanisms may struggle to find resources in one place.
 
-**Higher Certificate in Business Management (NQF 5)**  
-*IIE Rosebank College, Bloemfontein* | 2023
-
-**National Senior Certificate (Matric)**  
-*Boshof Combined School* | 2014
+**Solution:** Created an informational platform providing educational resources, coping information and a private diary concept.
 
 ---
 
-## 📜 Certifications
+### 🏢 Insurance Claims Application
 
-**2025:**
-- Introduction to Data Analysis – Alison | Issued Nov 2025
-- Business Analyst: Excel Macro and VBA for Beginners – Simplilearn | Issued Jan 2025
-- Power BI Data Modeling Basic Tutorial Course – Simplilearn | Issued Jan 2025
+**Problem:** Clients in different locations had to travel to access certain insurance services and submit documents.
 
-**2024:**
-- Fundamental Data Analysis using Power BI – Alison | Issued Dec 2024
-- SQL Server Essentials, from scratch – Udemy | Issued Dec 2024
-- Project Management with Data Analytics – Udemy | Issued Dec 2024
-- Excel for Beginners – Udemy | Issued Dec 2024
+**Solution:** Designed an application concept that allows clients and agents to submit, upload and manage claim-related documents digitally.
 
 ---
 
-## 📈 GitHub Stats
+### 💻 Personal Developer Portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+A personal portfolio showcasing my development journey, projects, technical skills and experience.
 
 ---
 
-## 💡 What Sets Me Apart
+## 📚 Currently Learning
 
-**Business-Focused Mindset**: With my background in business management and information technology, I don't just analyze data—I understand the business context and deliver insights that align with organizational goals and drive strategic decisions.
+* React
+* Java
+* Python
+* SQL
+* Data Analysis
+* Business Analysis
+* Software Development
 
-**Strong Communication Skills**: I excel at translating complex technical findings into clear, compelling narratives that resonate with business stakeholders through effective visualizations and storytelling.
+---
 
-**Continuous Growth**: I am committed to staying current with industry trends and expanding my technical skills through ongoing certifications and hands-on projects. My proactive approach to learning ensures I bring fresh perspectives to every analysis.
+## 🎯 My Goal
 
-**Detail-Oriented & Analytical**: My academic training in business systems has equipped me with a methodical approach to problem-solving, ensuring accuracy and thoroughness in every project I undertake.
+My goal is to grow from a **Junior Software Developer into a highly skilled Full-Stack Developer**, while continuing to combine technology, business knowledge and data to build solutions that have a real purpose.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm eager to connect with data professionals, potential collaborators, and organizations seeking a dedicated data analyst. Whether you're interested in discussing projects, exploring opportunities, or sharing insights about the analytics field, I'd love to hear from you!
+📧 **Email:** [lkkwebdeveloper@gmail.com](mailto:lkkwebdeveloper@gmail.com)
+🌍 **Location:** South Africa | Open to Remote Opportunities
 
-- 📧 Email: lesedikganya1920@gmail.com
-- 📱 Phone: 067 968 9273
-- 💼 LinkedIn: [Katlego Queeneth Matlhoko](your-linkedin-url)
-- 📊 Kaggle: [Your Kaggle Profile](link)
-- 🌐 Portfolio: [yourportfolio.com](link)
+### GitHub
 
----
-
-## 📄 Resume
-
-📥 [Download my resume](link-to-resume.pdf)
+[github.com/LesediKganya1920](https://github.com/LesediKganya1920)
 
 ---
 
-## 🎯 Open to Opportunities
-
-I'm actively seeking opportunities in data analytics where I can apply my analytical skills, business acumen, and technical expertise to contribute to organizational success. I'm particularly interested in roles that involve:
-
-- Business intelligence and data visualization
-- Data-driven decision making and strategic analysis
-- SQL database management and reporting
-- Cross-functional collaboration with business teams
-- Building dashboards and analytical solutions using Power BI
-
-**Location:** Bloemfontein, South Africa | Open to remote opportunities  
-**Availability:** Immediate for part-time or project-based work | Full-time from 2026
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python for data science
-- Machine learning fundamentals
-- Advanced DAX in Power BI
-- Cloud-based analytics (Azure, AWS)
-
----
-
-⭐️ *If you find my work valuable, feel free to star my repositories and follow for updates on my data analytics journey!*
-
----
-
-*Last Updated: December 2025*
+> **"I don't just build projects. I build solutions to problems."** 💻🚀
