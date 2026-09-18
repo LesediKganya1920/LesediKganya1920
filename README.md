@@ -1,4 +1,4 @@
-# Hi, I'm Katlego Matlhoko 👋🏽
+# Hi, I'm Katlego Queeneth Matlhoko 👋🏽
 
 ### 💻 Junior Software Developer | Web Developer | Business & Data Enthusiast
 
